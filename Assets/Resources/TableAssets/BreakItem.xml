@@ -1,0 +1,14 @@
+<BreakItemTable>
+  <elements>
+    <BreakItemInfo>
+      <id>1</id>
+      <name>骷髅堆</name>
+      <beHitNum>3</beHitNum>
+      <dropPackageId>
+        <int>2100</int>
+        <int>2200</int>
+        <int>1500</int>
+      </dropPackageId>
+    </BreakItemInfo>
+  </elements>
+</BreakItemTable>
